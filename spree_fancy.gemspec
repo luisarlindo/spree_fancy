@@ -1,3 +1,4 @@
+
 # -*- encoding: utf-8 -*-
 # stub: spree_fancy 2.1.0 ruby lib
 
@@ -55,4 +56,5 @@ Gem::Specification.new do |s|
     s.add_dependency(%q<spree_auth_devise>, [">= 0"])
     s.add_dependency(%q<sqlite3>, [">= 0"])
   end
+
 end
